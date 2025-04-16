@@ -1,7 +1,10 @@
 ---
-title: Test Blog
-date: 2025-04-10 HH:MM:SS +/-TTTT
-categories: [Introduction, AboutMe]
-tags: [#AboutME]     # TAG names should always be lowercase
+title: "Test Blog"
+date: 2025-04-10 08:30:00 +0530
+categories: [introduction, aboutme]
+tags: [aboutme]
 ---
 
+This is a test post to verify Chirpy is rendering posts correctly.
+
+More content coming soon!
